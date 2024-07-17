@@ -1,1 +1,1 @@
-https://github.com/ufiprogrammer4/ufiproapk/releases/download/ufipro-release/app-release.apk
+https://github.com/ufiprogrammer4/ufiproapk/releases/download/ufipro-release/ufiapp-release.apk
